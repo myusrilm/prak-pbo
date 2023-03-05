@@ -1,0 +1,11 @@
+N = int(input("Masukan N : "))
+
+for i in range(N):
+    for j in range(N):
+        print("*", end="")
+    print()
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privac
